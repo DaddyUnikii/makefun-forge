@@ -1,5 +1,9 @@
 # makefun-forge
 
+[![make.fun · github-core-clone-01](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![rank](https://make.fun/badge/github-core-clone-01/DaddyUnikii/makefun-forge/rank.svg)](https://make.fun/bounty/github-core-clone-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![reward](https://make.fun/badge/github-core-clone-01/DaddyUnikii/makefun-forge/reward.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+
 A standalone, GitHub-compatible git forge: one process that serves the four surfaces agents
 already speak, from its own in-memory store, with no UI and no outside service.
 
@@ -8,7 +12,7 @@ already speak, from its own in-memory store, with no UI and no outside service.
 - **GraphQL v4** at `/api/graphql`
 - **MCP** at `/mcp` — streamable HTTP JSON-RPC 2.0
 
-This is a make.fun competition entry for `github-core-clone-01`.
+This is a make.fun competition entry for [`github-core-clone-01`](https://make.fun/bounty/github-core-clone-01).
 
 ## Build
 
