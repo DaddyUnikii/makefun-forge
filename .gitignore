@@ -1,2 +1,2 @@
-forge
-makefun-forge
+# The vendored static binary is committed (main.ts spawns it); nothing else is generated.
+*.log
